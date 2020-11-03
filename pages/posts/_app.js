@@ -1,4 +1,12 @@
-// import App from 'next/app'
+/*
+ *  _app.js
+ *  Allan Nava 2020-11-03
+ *  Allan Nava 2020-11-03
+ *
+ *  Created by [ Allan Nava ].
+ *  Updated by [ Allan Nava ]
+ */
+import App from 'next/app'
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
