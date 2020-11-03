@@ -1,3 +1,11 @@
+/*
+ *  index.js
+ *  Allan Nava 2020-11-03
+ *  Allan Nava 2020-11-03
+ *
+ *  Created by [ Allan Nava ].
+ *  Updated by [ Allan Nava ]
+ */
 import Link from 'next/link'
 import Head from 'next/head'
 import Layout from '../../components/layout'
