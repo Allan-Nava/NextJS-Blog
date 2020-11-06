@@ -1,6 +1,6 @@
 {
-  "name": "learn-starter",
-  "version": "0.1.0",
+  "name": "NextJS-Blog",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,8 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "classnames": "2.2.6",
+    "date-fns": "2.10.0",
+    "gray-matter": "4.0.2",
     "next": "^10.0.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "remark": "11.0.2",
+    "remark-html": "10.0.0"
   }
 }
