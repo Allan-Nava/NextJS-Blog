@@ -47,3 +47,4 @@ export default function Alert({ preview }) {
       </Container>
     </div>
   )
+};
