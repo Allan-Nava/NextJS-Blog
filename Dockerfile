@@ -1,6 +1,6 @@
 # Build target base #
 #####################
-FROM node:17.4-stretch AS base
+FROM node:17.9-stretch AS base
 WORKDIR /app
 ARG NODE_ENV=production
 ENV PATH=/app/node_modules/.bin:$PATH \
