@@ -15,7 +15,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "remark": "11.0.2",
-    "remark-html": "13.0.2"
+    "remark-html": "15.0.2"
   },
   "devDependencies": {
     "dotenv": "8.2.0",
